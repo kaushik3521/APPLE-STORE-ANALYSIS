@@ -1,6 +1,3 @@
--- SQL B7 Day2 N2
-
-
 -- Apple Store Project
 
 -- Exploring (EDA)
