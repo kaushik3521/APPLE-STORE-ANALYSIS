@@ -1,8 +1,8 @@
-# Amazon Sales Analysis Project
-![Banner Image](https://github.com/najirh/Apple-Store-Sales-Analysis/blob/main/entity-relationship-diagram-1024x521.png)
+# APPLE Sales Analysis Project
 
-Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
-data from Amazon to extract insights and trends that can help optimize sales strategies,
+
+Welcome to the APPLE Sales Analysis project! In this project, we delve into analyzing sales
+data from APPLE to extract insights and trends that can help optimize sales strategies,
 understand customer behavior, and improve business operations.
 
 ## Introduction
@@ -29,9 +29,9 @@ During the analysis, the following key questions were addressed using SQL querie
 analysis techniques:
 
 1. Find out the top 5 customers who made the highest profits.
-![Top 5 Customers Query](https://github.com/najirh/Apple-Store-Sales-Analysis/blob/main/Screenshot%202024-06-30%20at%2011.39.32%20PM.png)
-
+![Top 5 Customers Query](https://github.com/kaushik3521/APPLE-STORE-ANALYSIS/blob/main/Screenshot%202024-06-30%20at%2011.39.32%20PM.png)
 2. Find out the average quantity ordered per category.
+
 ![Average Quantity Query](insert_image_link_here)
 
 3. Identify the top 5 products that have generated the highest revenue.
@@ -60,7 +60,8 @@ percentage.
 ![Top 2 Returning Categories Query](insert_image_link_here)
 
 ## Entity-Relationship Diagram (ERD)
-![ERD Image](insert_banner_image_link_here)
+![ERD Image]([insert_banner_image_link_here](https://github.com/kaushik3521/APPLE-STORE-ANALYSIS/blob/main/entity-relationship-diagram.png)
+)
 
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
