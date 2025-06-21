@@ -7,7 +7,7 @@ understand customer behavior, and improve business operations.
 
 ## Introduction
 
-This project focuses on analyzing a dataset containing Amazon sales records, including
+This project focuses on analyzing a dataset containing APPLE sales records, including
 information such as sales dates, customer details, product categories, and revenue figures. By
 leveraging SQL queries and data analysis techniques, we aim to answer various questions and
 uncover valuable insights from the dataset.
@@ -51,7 +51,7 @@ To replicate the analysis or explore the dataset further, follow these steps:
 
 ## Conclusion
 
-Through this project, we aim to provide valuable insights into Amazon sales trends, customer
+Through this project, we aim to provide valuable insights into APPLE sales trends, customer
 preferences, and other factors influencing e-commerce operations. By analyzing the dataset
 and addressing the key questions, we hope to assist stakeholders in making informed decisions
 and optimizing their sales strategies.
